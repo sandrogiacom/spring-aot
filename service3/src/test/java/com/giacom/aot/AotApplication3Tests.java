@@ -1,0 +1,13 @@
+package com.giacom.aot;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class AotApplication3Tests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
